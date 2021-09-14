@@ -4,4 +4,5 @@ Ben Kluge
 Brian Marsolek
 Hoang Nguyen
 James Im
+James Norris
 Patrick Toner
